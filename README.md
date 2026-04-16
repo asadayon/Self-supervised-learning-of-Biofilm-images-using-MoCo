@@ -88,3 +88,10 @@ python3 main_moco.py \
   --world-size 1 \
   --rank 0 \
   [dataset-path]
+
+### 🔹 Linear Evaluation
+```bash
+python3 main_lincls.py \
+  [data-path] \
+  --lr 0.3 \
+  --pretrained [model-path]

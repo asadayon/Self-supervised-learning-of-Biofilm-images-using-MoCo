@@ -95,7 +95,7 @@ python3 main_lincls.py \
   [data-path] \
   --lr 0.3 \
   --pretrained [model-path]
-
+```
 ---
 
 ## 📄 Paper

@@ -1,5 +1,10 @@
 # Self-supervised learning of Biofilm images using MoCo
+---
+## 📄 Paper
 
+🔗 **Full Paper:** https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.996400/full
+
+---
 ## 🔹 Project Overview  
 This project presents an AI-driven approach for detecting microbial cells, MIC byproducts, and surface regions from low-volume Scanning Electron Microscope (SEM) images of biofilms.
 
@@ -98,15 +103,10 @@ python3 main_lincls.py \
 ```
 ---
 
-## 📄 Paper
 
-🔗 **Full Paper:** https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.996400/full
-
----
 
 ## 📌 Citation
 
-### 🔹 IEEE Format
 ```bibtex
 @article{abeyrathna2022ai,
   title={An AI-based approach for detecting cells and microbial byproducts in low volume scanning electron microscope images of biofilms},

@@ -95,3 +95,25 @@ python3 main_lincls.py \
   [data-path] \
   --lr 0.3 \
   --pretrained [model-path]
+
+---
+
+## 📄 Paper
+
+🔗 **Full Paper:** https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.996400/full
+
+---
+
+## 📌 Citation
+
+### 🔹 IEEE Format
+```bibtex
+@article{abeyrathna2022ai,
+  title={An AI-based approach for detecting cells and microbial byproducts in low volume scanning electron microscope images of biofilms},
+  author={Abeyrathna, Dilanga and Ashaduzzaman, Md and Malshe, Milind and Kalimuthu, Jawaharraj and Gadhamshetty, Venkataramana and Chundi, Parvathi and Subramaniam, Mahadevan},
+  journal={Frontiers in Microbiology},
+  volume={13},
+  pages={996400},
+  year={2022},
+  publisher={Frontiers Media SA}
+}
